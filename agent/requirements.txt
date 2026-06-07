@@ -1,4 +1,4 @@
-langchain==0.0.315
+langchain==0.3.30
 openai==0.28.1
 neo4j==5.12.0
 requests==2.31.0
